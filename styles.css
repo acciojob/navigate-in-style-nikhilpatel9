@@ -6,5 +6,7 @@
 .li{
 	margin-right:1rem;
 	display:inline;
+	list-style:none;
+		}
 	
 }
